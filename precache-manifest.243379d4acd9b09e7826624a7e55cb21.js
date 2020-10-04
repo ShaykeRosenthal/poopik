@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b58daa2e8e2afba67c2b59d1e693482c",
+    "revision": "c0c18e7d95bff0b51aa9b5be1ff45df8",
     "url": "/poopik/index.html"
   },
   {
-    "revision": "44add1d64c1fd15adf44",
+    "revision": "a0767709ebfd77bb9d76",
     "url": "/poopik/static/css/main.38dd33cd.chunk.css"
   },
   {
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poopik/static/js/2.14ab9095.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "44add1d64c1fd15adf44",
-    "url": "/poopik/static/js/main.30c97fa4.chunk.js"
+    "revision": "a0767709ebfd77bb9d76",
+    "url": "/poopik/static/js/main.2ec29037.chunk.js"
   },
   {
     "revision": "ca52654c599eca3125d5",
     "url": "/poopik/static/js/runtime-main.a163c8b1.js"
+  },
+  {
+    "revision": "acefa23a54e7547b4d579939415031ee",
+    "url": "/poopik/static/media/dduck.acefa23a.png"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",

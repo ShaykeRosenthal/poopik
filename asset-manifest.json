@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/poopik/static/css/main.38dd33cd.chunk.css",
-    "main.js": "/poopik/static/js/main.30c97fa4.chunk.js",
-    "main.js.map": "/poopik/static/js/main.30c97fa4.chunk.js.map",
+    "main.js": "/poopik/static/js/main.2ec29037.chunk.js",
+    "main.js.map": "/poopik/static/js/main.2ec29037.chunk.js.map",
     "runtime-main.js": "/poopik/static/js/runtime-main.a163c8b1.js",
     "runtime-main.js.map": "/poopik/static/js/runtime-main.a163c8b1.js.map",
     "static/js/2.14ab9095.chunk.js": "/poopik/static/js/2.14ab9095.chunk.js",
     "static/js/2.14ab9095.chunk.js.map": "/poopik/static/js/2.14ab9095.chunk.js.map",
     "index.html": "/poopik/index.html",
-    "precache-manifest.dc7a5c95d5ec1a060a28cbb75ba0ae6e.js": "/poopik/precache-manifest.dc7a5c95d5ec1a060a28cbb75ba0ae6e.js",
+    "precache-manifest.243379d4acd9b09e7826624a7e55cb21.js": "/poopik/precache-manifest.243379d4acd9b09e7826624a7e55cb21.js",
     "service-worker.js": "/poopik/service-worker.js",
     "static/css/main.38dd33cd.chunk.css.map": "/poopik/static/css/main.38dd33cd.chunk.css.map",
     "static/js/2.14ab9095.chunk.js.LICENSE.txt": "/poopik/static/js/2.14ab9095.chunk.js.LICENSE.txt",
+    "static/media/dduck.png": "/poopik/static/media/dduck.acefa23a.png",
     "static/media/logo.svg": "/poopik/static/media/logo.5d5d9eef.svg",
     "static/media/pizza_fresca.jpg": "/poopik/static/media/pizza_fresca.016d5fef.jpg"
   },
@@ -19,6 +20,6 @@
     "static/js/runtime-main.a163c8b1.js",
     "static/js/2.14ab9095.chunk.js",
     "static/css/main.38dd33cd.chunk.css",
-    "static/js/main.30c97fa4.chunk.js"
+    "static/js/main.2ec29037.chunk.js"
   ]
 }
