@@ -6,7 +6,7 @@ import dDuck from './img/dduck.png'
 function App() {
   return (
     <div className="App">
-      <h1>Shayke's pizza</h1>
+      <h1>Shayke's Place</h1>
       <img src={dDuck} alt="" className="src" />
     </div>
   );
