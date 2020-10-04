@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/poopik/static/css/main.38dd33cd.chunk.css",
-    "main.js": "/poopik/static/js/main.2ec29037.chunk.js",
-    "main.js.map": "/poopik/static/js/main.2ec29037.chunk.js.map",
+    "main.js": "/poopik/static/js/main.564586dd.chunk.js",
+    "main.js.map": "/poopik/static/js/main.564586dd.chunk.js.map",
     "runtime-main.js": "/poopik/static/js/runtime-main.a163c8b1.js",
     "runtime-main.js.map": "/poopik/static/js/runtime-main.a163c8b1.js.map",
     "static/js/2.14ab9095.chunk.js": "/poopik/static/js/2.14ab9095.chunk.js",
     "static/js/2.14ab9095.chunk.js.map": "/poopik/static/js/2.14ab9095.chunk.js.map",
     "index.html": "/poopik/index.html",
-    "precache-manifest.243379d4acd9b09e7826624a7e55cb21.js": "/poopik/precache-manifest.243379d4acd9b09e7826624a7e55cb21.js",
+    "precache-manifest.06bf6c03eb16ed8340a4264c089b43d8.js": "/poopik/precache-manifest.06bf6c03eb16ed8340a4264c089b43d8.js",
     "service-worker.js": "/poopik/service-worker.js",
     "static/css/main.38dd33cd.chunk.css.map": "/poopik/static/css/main.38dd33cd.chunk.css.map",
     "static/js/2.14ab9095.chunk.js.LICENSE.txt": "/poopik/static/js/2.14ab9095.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.a163c8b1.js",
     "static/js/2.14ab9095.chunk.js",
     "static/css/main.38dd33cd.chunk.css",
-    "static/js/main.2ec29037.chunk.js"
+    "static/js/main.564586dd.chunk.js"
   ]
 }
